@@ -20,4 +20,9 @@
     - Mettez un lien sur votre site dans le Readme.md du repo SVP, comme ça je pourrai voir ce que vous faites
  
 - Journal (3p)
-    - ...
+    - 10 min : Théorie et explication de la méthode Pomodoro
+    - 5 min : lecture du Feedback
+    - 10 min : exploration d'un problème de blug-in 
+    - 5 min : changement de groupe et nouveau support cms pour créer mon site
+    - 80 min : création de site Odoo
+    - 25 min : trouver un moyen comment rajouter un pluggin
