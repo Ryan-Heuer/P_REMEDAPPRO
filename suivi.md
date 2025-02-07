@@ -8,11 +8,11 @@
 
 - Journal (3p)
     - 10 min : Ajouter dans ma bio mon nom de profil
-    - 5 min : installer VSCode
-    - 10 min : écrire le jdt
-    - 30 min : écrire le cahier 
-    - 20 min : ce documenter comment mardown donctionne
-    - 10 min : commencement pour créer le site wordpress
+    - 15 min : installer VSCode
+    - 20 min : écrire le jdt
+    - 40 min : écrire le cahier 
+    - 30 min : ce documenter comment mardown donctionne
+    - 20 min : commencement pour créer le site wordpress
  
 ## 7.2
 - Feedback XCL
