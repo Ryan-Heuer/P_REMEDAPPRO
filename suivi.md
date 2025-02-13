@@ -22,7 +22,16 @@
 - Journal (3p)
     - 10 min : Théorie et explication de la méthode Pomodoro
     - 5 min : lecture du Feedback
-    - 10 min : exploration d'un problème de blug-in 
+    - 10 min : exploration d'un problème de plug-in 
     - 5 min : changement de groupe et nouveau support cms pour créer mon site
     - 80 min : création de site Odoo
     - 25 min : trouver un moyen comment rajouter un pluggin
+
+## 14.2
+
+- Feedback XCL
+    - Vous avez passé 80 minutes à la création du site Odoo. Comment est-ce que je peux voir le résultat de ce travail ?
+    - Votre journal dit "exploration d'un problème de plug-in". Quel est le problème ? qu'avez-vous fait après 10min ? Abandonné ? Appliqué une solution ? laquelle ?
+
+- Journal (3p)
+    - ...
