@@ -34,4 +34,11 @@
     - Votre journal dit "exploration d'un problème de plug-in". Quel est le problème ? qu'avez-vous fait après 10min ? Abandonné ? Appliqué une solution ? laquelle ?
 
 - Journal (3p)
-    - ...
+    - 10 min : expliquation sur Pomodoro
+    - 30 min : création d'une nouvelle page média, suivi d'un ajouts de vidéo avec un petit texte explicatif
+    - 15 min : ajouts de musique, malheureusement je ne peux pas ajouter des plug in mais j'ai mis des boutons pour télécharger la musique
+    - 20 min : trouver comment ajouter des plugin sur la nouvelle base de donnée
+    - 30 min : trouver comment trouver faire pour que les collaborateur puisse mettre des pluggin (nous n'avons pas réusssi)
+    - 30 min : création de la partie présentation
+    - lien : https://emtum.odoo.com/
+
