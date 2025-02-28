@@ -42,3 +42,9 @@
     - 30 min : création de la partie présentation
     - lien : https://emtum.odoo.com/
 
+## 28.2
+
+- Feedback XCL
+    - Mettez le lien sur votre site dans le readme de votre repo SVP
+    - Bon journal. Vous pouvez quand même l'améliorer en expliquant ce que vous avez essayé mais qui n'a pas marché avec les plugins
+    - Continuez !
