@@ -48,3 +48,11 @@
     - Mettez le lien sur votre site dans le readme de votre repo SVP
     - Bon journal. Vous pouvez quand même l'améliorer en expliquant ce que vous avez essayé mais qui n'a pas marché avec les plugins
     - Continuez !
+
+- Journal (3p)
+    - 10 min : explication des Feedback
+    - 2 min : j'ai mis le lien de mon site sur le README
+    - 3 min : j'ai fais la comparaison de mes objectfis et de ce que j'ai fait. Voici les objectifs réalisés : le point 2, 3, 4
+    - 45 min : je cherche à trouver un moyen de rajouter l'heure et la météo en temps réelle.
+    - Suite à cette objectif terminer, j'ai officellement réaliser tout mes pbjectifs que j'ai inscrit dans mon contrat.
+    - 75 min : j'ai aider à l'améloiration du site ne générale
