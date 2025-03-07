@@ -64,4 +64,10 @@
     - Journal: OK
     - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
     - Bon avancement, bravo. Maintenant que vous avez atteint vos objectifs: fixez-en un nouveau !
-- Journal de travail
+
+- Journal (3p)
+    - 15 min : Mr Carrel nous a expliquer comment nommer nos commit
+    - 10 min : j'ai rédiger ce que j'ai fat du projets dans status.md ainsi que de bien nommer le commit
+    - 10 min : Je me suis mis à jours avec mon équiper pour savoir ce qu'il nous restait à faire
+    - 35 min : aider Benjamin à atteindre son objectif
+    - 100 min : amélioration du site (changement d'image et résolution de bug)
