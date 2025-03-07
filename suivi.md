@@ -56,3 +56,12 @@
     - 45 min : je cherche à trouver un moyen de rajouter l'heure et la météo en temps réelle.
     - Suite à cette objectif terminer, j'ai officellement réaliser tout mes pbjectifs que j'ai inscrit dans mon contrat.
     - 75 min : j'ai aider à l'améloiration du site ne générale
+
+
+## 7.3
+
+- Feedback XCL
+    - Journal: OK
+    - Nommage de commits: il est nécessaire maintenant d'améliorer ce point car il est insuffisant à ce stade
+    - Bon avancement, bravo. Maintenant que vous avez atteint vos objectifs: fixez-en un nouveau !
+- Journal de travail
