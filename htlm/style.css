@@ -1,0 +1,136 @@
+/* Supprime le scroll temporaire */
+html, body {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style général du body */
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('wp3594884.jpg'); /* Assure-toi que l'image est présente */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Aligne le contenu en haut */
+    position: relative;
+}
+
+/* Fond avec l'image de l'Empire State Building */
+.background {
+    background-image: url('empire-state-building.jpg'); /* Remplace par ton image spécifique */
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+/* Style pour l'animation du texte */
+.split-text-container {
+    display: flex;
+    font-size: 10rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    margin-top: 150px; /* Réduction de l'espace pour éviter le scroll */
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+}
+
+/* Masquer les textes jusqu'à l'animation */
+.text-part {
+    display: inline-block;
+    position: relative;
+    visibility: hidden;
+    transform: translateX(0);
+    animation-duration: 1.5s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+.text-part.left {
+    transform: translateX(-200%);
+    animation-name: slide-in-left;
+}
+
+.text-part.right {
+    transform: translateX(200%);
+    animation-name: slide-in-right;
+}
+
+/* Animation du texte */
+@keyframes slide-in-left {
+    0% {
+        transform: translateX(-200%);
+        visibility: visible;
+    }
+    100% {
+        transform: translateX(0);
+        visibility: visible;
+    }
+}
+
+@keyframes slide-in-right {
+    0% {
+        transform: translateX(200%);
+        visibility: visible;
+    }
+    100% {
+        transform: translateX(0);
+        visibility: visible;
+    }
+}
+
+/* Style pour le texte de présentation */
+.body1 {
+    text-align: center;
+    color: #fff;
+    font-size: 1.5rem;
+    margin-top: 130px; /* Réduction pour éviter le scroll */
+    position: relative;
+    z-index: 2;
+}
+
+/* Style pour les boutons */
+.buttom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    margin-top: 80px;
+    position: relative;
+    z-index: 2;
+}
+
+.button {
+    background-image: linear-gradient(144deg, #AF40FF, #5B42F3 50%, #00DDEB);
+    border: none;
+    border-radius: 20px;
+    box-shadow: rgba(151, 65, 252, 0.2) 0 5px 15px;
+    color: #fff;
+    font-family: Phantomsans, sans-serif;
+    font-size: 18px;
+    padding: 24px 48px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Effet au survol */
+.button:hover {
+    filter: brightness(1.2);
+    transform: scale(1.05);
+}
+
+/* Effet au clic */
+.button:active {
+    transform: scale(0.95);
+}
