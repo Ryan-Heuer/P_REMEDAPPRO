@@ -83,4 +83,8 @@
     - Continuez...
 
 - Journal de travail
-    -
+    - 45 min : creation d'une page victoire quand la partie jeux
+    - 20 min : faire en sorte qu'on puisse télécharger mon CV dans la parite CV
+    - 30 min : Dans la partie jeu j'ai fais en sorte que le bouton soit arreter par les bordure de l'écran
+    - 10 min : explication du professeur
+    - 30 min : rajouter des images dans la partie CV qui explique un peu ma vie
