@@ -71,3 +71,16 @@
     - 10 min : Je me suis mis à jours avec mon équiper pour savoir ce qu'il nous restait à faire
     - 35 min : aider Benjamin à atteindre son objectif
     - 100 min : amélioration du site (changement d'image et résolution de bug)
+
+    
+## 14.3
+
+- Feedback XCL
+    - Journal: donner un peu plus d'information. 
+        > 100 min : amélioration du site (changement d'image et résolution de bug)  
+
+        Quelle image ? Quel bug ?
+    - Continuez...
+
+- Journal de travail
+    -
