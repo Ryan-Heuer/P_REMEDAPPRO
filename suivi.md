@@ -88,3 +88,9 @@
     - 30 min : Dans la partie jeu j'ai fais en sorte que le bouton soit arreter par les bordure de l'écran
     - 10 min : explication du professeur
     - 30 min : rajouter des images dans la partie CV qui explique un peu ma vie
+
+# Conclusion
+
+Je valide votre projet. Je vous félicite parce que vous avez pris un risque, en vous lançant dans un domaine tout nouveau et que vous avez réussi à atteindre vos objectifs. Votre attitude a été excellente durant tout ce projet. Vous avez cherché à résoudre les problèmes par vous-même, et vous avez été proactif dans les moments de difficulté ou de changement de direction.
+
+Continuez comme ça
